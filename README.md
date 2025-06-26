@@ -11,39 +11,39 @@ Telegram（电报）社工库机器人
 
 ## 花花社工库器人
 查询范围：人名-身份证，小红书，B站，wx，QQ，银行卡，wb，社保，大头照，户籍，驾驶证，车牌，电子婚姻证明等
-可直接通过[**传送门**](https://t.me/sgkvipbot?start=vip_1393394)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/sgkvipbot?start=vip_1395007)访问，根据机器人提示操作即可。
 
 ## Seed社工库器人
 查询范围：手机机主、身份戶籍、快遞订单、账号綁定、公司企业、車主信息、招聘信息、QQ/貼吧/邮箱/英雄联盟/账号密正等
-可直接通过[**传送门**](https://t.me/SeedSGKBOT?start=jjt6jyy6n)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/SeedSGKBOT?start=PcTZ6SMFtTZcgXJ6UizCuh)访问，根据机器人提示操作即可。
 
 ## 屁屁侦探社
 查询范围：身份证-人名，QQ手机号互查，微博手机号互查，手机号归属地，邮箱……
-可直接通过[**传送门**](http://t.me/ppsgk_bot?start=7815297965)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](http://t.me/ppsgk_bot?start=7992241473)访问，根据机器人提示操作即可。
 
 ## Ingeek工库器人
 查询范围：手机号、邮箱、QQ、身份证、密码、微博UID、用户名、姓名、facebook ID等
-可直接通过[**传送门**](https://t.me/ingeeksgkbot?start=NzgxNTI5Nzk2NQ==)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/ingeeksgkbot?start=Nzk5MjI0MTQ3Mw==)访问，根据机器人提示操作即可。
 
 ## 黑盒BlackBox
 查询范围：手机号、身份证、邮箱、用户名、QQ 、微博ID、LOL昵称、贴吧ID、FaceBookID、TelegramID、企业名称、密码、域名、车牌等
-可直接通过[**传送门**](https://t.me/BOXsgkbot?start=MUtq2na)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/BOXsgkbot?start=sH9j0Oz)访问，根据机器人提示操作即可。
 
 ## 叮当猫机器人
 查询范围：猎魔查询、信息查询、人轨关联、腾讯查绑、名下地址、微博查绑、开房人员、车主信息、户籍信息、机主信息、相同邮服、联系方式
-可直接通过[**传送门**](https://t.me/DingDangCats_Bot?start=8a5fd983600a6093)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/DingDangCats_Bot?start=826a16852fafb484)访问，根据机器人提示操作即可。
 
 ## 情报局社工库玄武
 查询范围：身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号等
-可直接通过[**传送门**](https://t.me/QingBaoJuXuanwubot?start=NzgxNTI5Nzk2NQ==)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/QingBaoJuXuanwubot?start=Nzk5MjI0MTQ3Mw==)访问，根据机器人提示操作即可。
 
 ## 巨人社工库
 查询范围：身份证、手机号、姓名、家庭住址、个人户籍、QQ绑定、微博绑定、学习通数据、微信id数据、支付宝模糊绑定、银行卡、快递/收货/发货地址等
-可直接通过[**传送门**](https://t.me/jrsgk2_bot?start=NzgxNTI5Nzk2NQ==)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](https://t.me/jrsgk2_bot?start=Nzk5MjI0MTQ3Mw==)访问，根据机器人提示操作即可。
 
 ## 繁花社工库
 查询范围：姓名、手机号、身份证号、机构代码、QQ号、微博UID、微信号、抖音ID、快手ID、车牌、公司名、银行卡、邮箱等
-可直接通过[**传送门**](https://t.me/FanHuaSGK_bot?start=FanHua_ZLTBSEPY)访问，根据机器人提示操作即可。
+可直接通过[**传送门**](t.me/FanHuaSGK_bot?start=FanHua_PEVGTDTF)访问，根据机器人提示操作即可。
 
 > [!WARNING]\==
 > **上述机器人为数据安全与信息检索专用，请遵守法律与道德，误操作后果自负。严禁用于安全检查、检索之外的任何用途！**==
